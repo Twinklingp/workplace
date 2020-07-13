@@ -1,5 +1,5 @@
-<template>
-  <div id="container">index首页</div>
+﻿<template>
+  <div id="container">index首页123</div>
 </template>
 
 <script>
